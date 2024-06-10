@@ -1,0 +1,4 @@
+../Core/Src/app.c:10:6:init_app	1
+../Core/Src/app.c:16:6:deinit_app	1
+../Core/Src/app.c:22:6:task_app	1
+../Core/Src/app.c:28:6:cb_app	1
