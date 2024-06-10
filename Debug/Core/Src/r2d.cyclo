@@ -1,0 +1,11 @@
+../Core/Src/r2d.c:27:6:init_r2d	1
+../Core/Src/r2d.c:28:6:deinit_r2d	1
+../Core/Src/r2d.c:31:6:cb_r2d	2
+../Core/Src/r2d.c:62:6:task_r2d	1
+../Core/Src/r2d.c:77:6:_r2d_getStatus	9
+../Core/Src/r2d.c:104:6:_r2d_status2can	1
+../Core/Src/r2d.c:119:6:_r2d_can2status	2
+../Core/Src/r2d.c:134:6:_r2d_report2can	2
+../Core/Src/r2d.c:146:6:_r2d_report2status	2
+../Core/Src/r2d.c:158:6:_r2d_task	1
+../Core/Src/r2d.c:165:6:_r2d_handle_led	7
